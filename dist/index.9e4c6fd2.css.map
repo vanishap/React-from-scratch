@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAMA;;;;;AAIA","sources":["index.css"],"sourcesContent":[".app {\n    display:grid;\n    grid-template-columns:auto auto auto;\n\n}\n\n.react-logo {\n    width: 75px;\n    height: 75px;\n}\n.login-logo{\n    width: 30px;\n    height: 30px;\n}"],"names":[],"version":3,"file":"index.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}
